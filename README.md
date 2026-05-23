@@ -52,7 +52,7 @@ I am a passionate and enthusiastic Software Developer with a fresh perspective a
 ## 🤝 Let's Connect
 
 - **GitHub**: [Mohith2844](https://github.com/Mohith2844)
-- **LinkedIn**: [NAAMINI MOHITH](https://www.linkedin.com/in/naamini-mohith)
+- **LinkedIn**: [naamini-mohith](https://www.linkedin.com/in/naamini-mohith)
 - **Email**: [n.mohith2844@gmil.com](mailto:n.mohith2844@gmil.com)
 
 Feel free to reach out for collaborations or just a friendly chat!
