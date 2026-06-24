@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=430&lines=I+am+a+Software+Developer; Passionate+about+coding+and+innovation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=430&lines=I+am+a+Software+Developer+Passionate+about+coding+and+innovation." alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
